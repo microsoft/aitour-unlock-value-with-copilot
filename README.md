@@ -1,32 +1,24 @@
-To help prepare content for AI Tour, please use this template repository for organizing your sessions and preparing the content for future presentors.
-1. Update this readme with the todo's listed below
-2. The src folder has been created for all development tasks when creating this session
-3. The Lab folder is in-person and async participation with content, please update this folder with instructions for participants to follow along.
-4. The Presenter Notes folder is the train the trainer section. Here add any slide decks, demo videos, and other content as needed. This page has a rough layout to provide ideas but can be edited as needed.
-5. If you are taking advantage of the static front end site, edit the content in the _config.yml file as needed (specifically the title and description)
+# AI at Work: Unlock value and opportunity with Microsoft Copilot
 
-
-# [TODO: Insert Session Title]
-
-This repo is intended as a template for Microsoft AI Tour repositories
+![Session cover image with a bright "AI" text in 3D over a blue and purple abstract background.](img/BRK370%20Pave%20the%20Path.png)
 
 ## Session Desciption
 
-TODO: Add short description of the session. Please note this description should be at a technical level that anyone from decision makers to conference attendees can understand.
+Microsoft Copilot unleashes AI’s capabilities across every role and function to transform personal productivity and reinvent how organizations operate.  Join us to understand the business value already realized in the era of AI and what leaders are doing today to build an AI-powered enterprise.
 
-## Learning Outcomes
+## Goal
 TODO: Add a list of what you hope the attendee will take away from this session. This can be skills, technology, appreciation, etc.
 
-## Technology Used
+## Key audience takeaways
 TODO: Add a list of any technology or software used.
 
-## Additional Resources and Continued Learning
+## Session Resources
 TODO: If you would like to link the user to further learning, please enter that here.
 
 | Resources          | Links                             | Description        |
 |:-------------------|:----------------------------------|:-------------------|
-| Future Learning 1  | [Link 1](https://www.google.com/) | Learn more about X |
-| Future Learning 2  | [Link 2](https://www.google.com/) | Learn more about Y |
+| Presentation  | [Link 1](https://www.google.com/) | coming soon|
+| Session recording  | [Link 2](https://www.google.com/) | coming soon |
 
 ## Content Owners
 TODO: Add yourself as a content owner
