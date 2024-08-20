@@ -13,7 +13,7 @@ TODO: Add a list of what you hope the attendee will take away from this session.
 TODO: Add a list of any technology or software used.
 
 ## Session Resources
-TODO: If you would like to link the user to further learning, please enter that here.
+You can find additional resources, including the slides of the presentation here.
 
 | Resources          | Links                             | Description        |
 |:-------------------|:----------------------------------|:-------------------|
