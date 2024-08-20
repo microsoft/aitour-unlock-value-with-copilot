@@ -1,6 +1,6 @@
 # AI at Work: Unlock value and opportunity with Microsoft Copilot
 
-![Session cover image with a bright "AI" text in 3D over a blue and purple abstract background.](img/BRK370%20Pave%20the%20Path.png)
+![Session cover image with a bright "AI" text in 3D over a blue and purple abstract background.](img/BRK310UnlockValue.png)
 
 ## Session Desciption
 
