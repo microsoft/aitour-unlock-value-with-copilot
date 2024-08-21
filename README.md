@@ -21,23 +21,4 @@ You can find additional resources, including the slides of the presentation here
 | Session recording  | [Link 2](https://www.google.com/) | coming soon |
 
 ## Content Owners
-TODO: Add yourself as a content owner
-1. Change the src in the image tag to {your github url}.png
-2. Change INSERT NAME HERE to your name
-3. Change the github url in the final href to your url.
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-
-<table>
-<tr>
-    <td align="center"><a href="http://learnanalytics.microsoft.com">
-        <img src="https://github.com/cole-g-johnson.png" width="100px;" alt="Chris Testa-O'Neill
-"/><br />
-        <sub><b>INSERT NAME HERE
-</b></sub></a><br />
-            <a href="https://github.com/cole-g-johnson" title="talk">📢</a> 
-    </td>
-</tr></table>
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
+Add here
