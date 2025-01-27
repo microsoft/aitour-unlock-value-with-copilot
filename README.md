@@ -11,7 +11,7 @@ You can find slides of the presentation here.
 
 | Resources          | Links                             | Description        |
 |:-------------------|:----------------------------------|:-------------------|
-| BRK310 English-language PPT Slides | [Link 1](https://aka.ms/xxxxxxx/) | Presentation deck in English|
+| BRK310 English-language PPT Slides | [Link 1](https://aka.ms/AAu40qn/) | Presentation deck in English|
 
 ## Content Owners
 Matt McKenzie, Director Product Marketing, Microsoft
